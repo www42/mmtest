@@ -124,7 +124,7 @@ In a `Gemfile`
 
 ```bash
 gem "webrick", "~> 1.7"
-````
+```
 
 means `bundle install` will install the highest version of `webrick` between the range `>= 1.7` and `< 2.0`.
 See [Dan Croak](https://thoughtbot.com/blog/rubys-pessimistic-operator).
