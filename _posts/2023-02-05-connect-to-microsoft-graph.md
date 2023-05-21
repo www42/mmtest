@@ -1,4 +1,4 @@
-# Connect mit Connect-MgGraph
+# Connect mit Connect-MgGraph -- TBD
 Scopes sind die Permissions, die die App (hier 'Microsoft Graph PowerShell') hat. Zum Beispiel
 
 "User.Read.All"  Allows the app to read the full set of profile properties, reports, and managers of other users in your organization, on behalf of the signed-in user.
